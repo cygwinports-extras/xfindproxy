@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libX11_6 libICE6 libXt6
+sdesc: "Xorg proxy services locator"
+ldesc: "Xorg proxy services locator"
