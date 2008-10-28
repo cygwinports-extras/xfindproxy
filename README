@@ -1,6 +1,6 @@
 xfindproxy
 ------------------------------------------
-Xorg proxy services locator
+X.Org proxy services locator
 
 Runtime requirements:
   cygwin-1.5.20-1
